@@ -2,6 +2,9 @@
 
 This project implements a sophisticated Retrieval-Augmented Generation (RAG) system with agentic capabilities, designed for robust and efficient conversational AI.
 
+## Demo
+https://github.com/user-attachments/assets/4b0a4534-f607-4e38-9a08-ae7a1a499d5f
+
 ## Project Description
 
 This repository contains a RAG implementation that combines various advanced techniques to provide accurate and context-aware responses. It leverages:
