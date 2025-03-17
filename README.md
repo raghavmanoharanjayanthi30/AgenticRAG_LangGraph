@@ -31,3 +31,4 @@ This repository contains a RAG implementation that combines various advanced tec
 * **Efficient Response Generation:** Implements caching to improve speed and reduce resource usage.
 * **Context Window Control:** Manages historical context to fit within model limitations.
 * **User-Friendly Interface:** Streamlit app for easy interaction.
+* **ChatGPT-like streaming capability:** Answers appear word by word, providing a more interactive and engaging user experience.
