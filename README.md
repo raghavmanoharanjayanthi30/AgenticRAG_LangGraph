@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/4b0a4534-f607-4e38-9a08-ae7a1a499d5f
 
 This repository contains a RAG implementation that combines various advanced techniques to provide accurate and context-aware responses. It leverages:
 
-* **Documents Info:**
+* **Info about documents used for RAG:**
     * Exploration of attention mechanisms.
     * Usage of cutting-edge models like GPT-4, Gemini, Mistral-7B, and InstructGPT.
 * **LangGraph:**
